@@ -1,0 +1,5 @@
+total 32
+-rw-r--r--  1 robert.maksymow62  staff   105 May 31 09:43 README.md
+-rw-r--r--  1 robert.maksymow62  staff  7382 May 31 16:37 lorem.txt
+-rwxr-xr-x  1 robert.maksymow62  staff   231 May 31 16:53 piping.sh
+-rw-r--r--  1 robert.maksymow62  staff     0 May 31 16:54 text.txt
