@@ -1,5 +1,15 @@
-total 32
--rw-r--r--  1 robert.maksymow62  staff   105 May 31 09:43 README.md
--rw-r--r--  1 robert.maksymow62  staff  7382 May 31 16:37 lorem.txt
--rwxr-xr-x  1 robert.maksymow62  staff   231 May 31 16:53 piping.sh
--rw-r--r--  1 robert.maksymow62  staff     0 May 31 16:54 text.txt
+total 15
+-rw-r--r-- 1 Max 197121   56 May 31 21:15 error.txt
+-rw-r--r-- 1 Max 197121   12 May 31 21:15 list.txt
+-rw-r--r-- 1 Max 197121 7393 May 31 20:52 lorem.txt
+-rw-r--r-- 1 Max 197121    0 May 31 21:15 output.txt
+-rwxr-xr-x 1 Max 197121  758 May 31 21:15 piping.sh
+-rw-r--r-- 1 Max 197121  107 May 31 20:52 README.md
+-rw-r--r-- 1 Max 197121    0 May 31 21:15 text.txt
+error.txt
+list.txt
+lorem.txt
+output.txt
+piping.sh
+README.md
+text.txt

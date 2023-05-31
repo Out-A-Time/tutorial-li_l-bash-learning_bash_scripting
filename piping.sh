@@ -16,3 +16,16 @@ cat lorem.txt | wc
 
 ls -l > text.txt
 
+
+ls >> text.txt
+
+#Redirecting Standard Error
+ls /notreal
+
+ls /notreal 1> output.txt 2>error.txt
+
+#Input redirection
+cat < list.txt
+
+#Here document
+#example here
