@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo hello
 echo hello world
 
@@ -17,5 +18,5 @@ echo "The (kernel) is $(uname -r)."
 echo; echo "More space!"; echo
 #no new lines (moves prompter to the end)
 echo -n "No new line"; echo
-#no new lines__(doesn't work, why???)
+#no new lines
 echo -n "This is a part"; echo -n "of the same line";
